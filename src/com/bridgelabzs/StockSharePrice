@@ -1,0 +1,3 @@
+Stock [shareName=HDFC, noOfShare=50, sharePrice=1000.0, totalShareValue=50000.0]
+Stock [shareName=DMart, noOfShare=100, sharePrice=7000.0, totalShareValue=700000.0]
+Stock [shareName=ICIC, noOfShare=60, sharePrice=3000.0, totalShareValue=180000.0]
